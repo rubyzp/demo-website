@@ -1,0 +1,10 @@
+---
+title: "Ruby Peterman"
+---
+
+## WELCOME!
+
+Check stuff out!
+
+See my 
+[resume page](resume.qmd)

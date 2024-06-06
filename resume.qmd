@@ -1,0 +1,17 @@
+---
+title: Resume
+--- 
+
+## Contact Information
+rpeterman@g.hmc.edu
+
+## Education
+
+- Harvey Mudd College, B.S. in General Engineering
+- Baxter Academy for technology and Science
+
+## Work Experience
+### Resarch Assistant
+test2
+
+## Skills

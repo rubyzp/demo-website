@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Ruby is a student researcher in the HMC Biophotonicsd lab.
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
