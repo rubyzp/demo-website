@@ -4,7 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Ruby is a student researcher in the HMC Biophotonicsd lab.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Ruby is a rising sensior at Harvey Mudd College majoring in General Engineering with an HSA concentration in Art.\nRuby is currently working as a student researcher in the HMC Biophotonics lab."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Student researcher on the OpenIVIS project.\n\n\n\nStudent researcher in the extracellular vesicles team, focusing on secondary education programs in biomedical engineering.\n\n\n\nStudent researcher studying the foraging behavior of honeybees. Also worked with turtle ants. TESTTTT!"
+  },
+  {
+    "objectID": "projects.html#research",
+    "href": "projects.html#research",
+    "title": "Projects",
+    "section": "",
+    "text": "Student researcher on the OpenIVIS project.\n\n\n\nStudent researcher in the extracellular vesicles team, focusing on secondary education programs in biomedical engineering.\n\n\n\nStudent researcher studying the foraging behavior of honeybees. Also worked with turtle ants. TESTTTT!"
   },
   {
     "objectID": "projects.html#projects",
@@ -46,20 +60,20 @@
     "href": "resume.html#skills",
     "title": "Resume",
     "section": "Skills",
-    "text": "Skills"
+    "text": "Skills\nBeing awesome."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ruby Peterman",
     "section": "",
-    "text": "Check stuff out!\nSee my resume page"
+    "text": "To see my previous experience, head over to my resume page."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Ruby Peterman",
     "section": "",
-    "text": "Check stuff out!\nSee my resume page"
+    "text": "To see my previous experience, head over to my resume page."
   }
 ]

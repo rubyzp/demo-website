@@ -123,6 +123,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#research" id="toc-research" class="nav-link active" data-scroll-target="#research">Research</a>
   <ul class="collapse">
   <li><a href="#hmc-biophotonics-lab" id="toc-hmc-biophotonics-lab" class="nav-link" data-scroll-target="#hmc-biophotonics-lab">HMC Biophotonics Lab</a></li>
+  <li><a href="#hmc-cute-lab" id="toc-hmc-cute-lab" class="nav-link" data-scroll-target="#hmc-cute-lab">HMC CuTE Lab</a></li>
+  <li><a href="#hmc-bee-lab" id="toc-hmc-bee-lab" class="nav-link" data-scroll-target="#hmc-bee-lab">HMC Bee Lab</a></li>
   </ul></li>
   <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a>
   <ul class="collapse">
@@ -157,6 +159,15 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="research">Research</h2>
 <section id="hmc-biophotonics-lab" class="level3">
 <h3 class="anchored" data-anchor-id="hmc-biophotonics-lab">HMC Biophotonics Lab</h3>
+<p>Student researcher on the OpenIVIS project.</p>
+</section>
+<section id="hmc-cute-lab" class="level3">
+<h3 class="anchored" data-anchor-id="hmc-cute-lab">HMC CuTE Lab</h3>
+<p>Student researcher in the extracellular vesicles team, focusing on secondary education programs in biomedical engineering.</p>
+</section>
+<section id="hmc-bee-lab" class="level3">
+<h3 class="anchored" data-anchor-id="hmc-bee-lab">HMC Bee Lab</h3>
+<p>Student researcher studying the foraging behavior of honeybees. Also worked with turtle ants. TESTTTT!</p>
 </section>
 </section>
 <section id="projects" class="level2">
@@ -261,7 +272,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/rubyzp\.github\.io\/demo-website\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
