@@ -2,8 +2,7 @@
 title: "About"
 ---
 
-Ruby is a student researcher in the HMC Biophotonicsd lab.
+Ruby is a rising sensior at Harvey Mudd College majoring in General Engineering with an HSA concentration in Art.
 
-This is a Quarto website.
+Ruby is currently working as a student researcher in the HMC Biophotonics lab.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

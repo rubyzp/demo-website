@@ -5,6 +5,13 @@ title: Projects
 ## Research
 
 ### HMC Biophotonics Lab
+Student researcher on the OpenIVIS project. 
+
+### HMC CuTE Lab
+Student researcher in the extracellular vesicles team, focusing on secondary education programs in biomedical engineering.
+
+### HMC Bee Lab
+Student researcher studying the foraging behavior of honeybees. Also worked with turtle ants. TESTTTT!
 
 ## Projects
 

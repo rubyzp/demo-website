@@ -2,9 +2,6 @@
 title: "Ruby Peterman"
 ---
 
-## WELCOME!
+## Welcome!
 
-Check stuff out!
-
-See my 
-[resume page](resume.qmd)
+To see my previous experience, head over to my [resume page](resume.qmd).
